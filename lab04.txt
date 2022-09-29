@@ -1,0 +1,22 @@
+Symone Bennett
+Rock, Paper, Scissors.py
+9/17/22
+CISW 24
+
+1. What python mechanism keeps the game running?
+The whileTrue mechanism. As long as the statement is still true, the game will keep running.
+
+2. How does your program know when you win?
+The program knows when you win by the elif condition. If the statement was true, it will record a win (wins = wins + 1).
+
+3. What type of flow control is used in this program?
+I think the flow control used is iteration.
+
+4. How would you expand on this program? For multiple players? How about adding "Lizard" and "Spock" as a popular alternative/expansion?
+
+You could expand on this program by adding more elif conditions and random numbers for the computer to chose from.
+
+For multiple players you could make it so each player has to take turns going aginst the computer. 
+
+You could do so by adding "Lizard" and "Spock" to the elif statements to display and record, and adding more randomNumbers for the computer to chose from. 
+(ex: randomNumber == random.randint(1,5))(ex: elif playerMove == 'Lizard' and computerMove == 'Spock': print('You lose!') losses = losses + 1)

@@ -1,0 +1,31 @@
+What command(s) would you use to print your myFavs list to the prompt?
+myFavs
+
+How would you print the 2nd item in myFavs?
+myFavs[1]
+
+How would you print the last item in myFavs?
+myFavs[4]
+
+What methods are available to use with lists? (list them all)
+index, append, insert, remove, and sort.
+
+What is the output of the following command? >>> len(myFavs[2])
+18
+
+Add the item sleep to the myFavs list.
+myFavs.append('Sleep')
+
+What is the output of the following command? >>> myFavs[-1]
+'Sleep'
+
+What is the output of the following command? >>> print(len(myFavs))
+6
+
+Let's drop sleep from our list of myFavs. What command will you use to do that?
+myFavs.remove('Sleep')
+
+Remove the list item sleep from myFavs.
+
+Now that we have removed sleep, what is the output of the following command? >>> print(len(myFavs))
+5

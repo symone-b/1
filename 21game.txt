@@ -1,0 +1,15 @@
+From what i've  gathered, it's you vs the computer and you take turns entering a number 1, 2, or 3 then it adds to the total. Whoever gets to 21 first wins.
+
+It seems like the rules are: you can't go above 21.
+
+When the computer hits 21 points the output shows "I win" (that the computer won).
+
+If the computer hits 22 points the output shows that I, the player won ("You win").
+
+I think the flow control used is the if-else.
+
+Decisions are being made by if and else statements. For example, if the total points are >=21 I win, else <21 continue the game.
+
+The game keeps running because of the while true statement. As long as the code is true it will continute if not the break will exit the game.
+
+The games knows to exit because of the breaks. It will continue on until a statement is no longer true.
