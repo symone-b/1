@@ -1,0 +1,6 @@
+washer
+dryer
+oven
+dishwasher
+microwave
+toaster

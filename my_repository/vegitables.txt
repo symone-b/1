@@ -1,0 +1,6 @@
+broccoli
+lettuce
+orange
+apple
+cucumber
+potato

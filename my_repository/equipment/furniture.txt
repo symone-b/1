@@ -1,0 +1,4 @@
+couch
+bed
+desk
+lamp
